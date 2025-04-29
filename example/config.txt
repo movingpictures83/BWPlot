@@ -1,0 +1,2 @@
+Prefix plugins/BWPlot/example/
+Plugin BWPlot inputfile resample.rds outputfile bwplot.png
